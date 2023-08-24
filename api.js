@@ -40,3 +40,4 @@ app.listen(port, async () => {
     console.error("Error connecting to the database:", error.message);
   }
 });
+
